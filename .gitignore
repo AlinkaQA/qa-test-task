@@ -1,0 +1,13 @@
+# Playwright
+/playwright/node_modules/
+/playwright/test-results/
+/playwright/screenshots/
+/playwright/videos/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Maven
+/target/
+
